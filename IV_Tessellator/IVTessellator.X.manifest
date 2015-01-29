@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="IV_Tessellator" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{4103d4f8-04bd-4ee2-9eb7-ede1493daa13}" progid="IV_Tessellator.StandardAddInServer" threadingModel="Both" name="IV_Tessellator.IV_Tessellator.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="IV_Tessellator.dll" hashalg="SHA1"></file>
+
+</assembly>

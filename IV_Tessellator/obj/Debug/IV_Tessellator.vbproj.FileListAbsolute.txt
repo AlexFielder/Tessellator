@@ -1,0 +1,78 @@
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\bin\Debug\IV_Tessellator.dll
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\bin\Debug\IV_Tessellator.pdb
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\bin\Debug\.xml
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\obj\Debug\ResolveAssemblyReference.cache
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.dll
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\obj\Debug\.xml
+C:\Vault_Workspace\Code\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.pdb
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\IV_Tessellator.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\IV_Tessellator.pdb
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\.xml
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.InventorAddin.EdmAddin.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Common.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.Security.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Common.Vault.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.Utils.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Application.VaultBase.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.Replication.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Autodesk.Connectivity.WebServices.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.Information.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Request.Common.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Explorer.Framework.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Request.Runtime.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Common.Windows.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Shared.Logging.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Autodesk.CER.XMLStack.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.WinAuth.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Request.Vault.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.KnowledgeVault.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Request.Foundation.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Explorer.Foundation.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Resolve.ResolveHelper.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\HtmlHelp.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\ManagedMC3.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Connectivity.Proxies.Admin.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.xml
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.InventorAddin.EdmAddin.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Common.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Common.Vault.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Proxies.Utils.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Application.VaultBase.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Request.Common.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Explorer.Framework.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Request.Vault.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Request.Foundation.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\Connectivity.Explorer.Foundation.resources.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\bin\Debug\en-US\HtmlHelp.resources.dll
+C:\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.dll
+C:\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.pdb
+C:\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\.xml
+C:\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.tlb
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\ResolveAssemblyReference.cache
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.curvedOrStraight.resources
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.Resources.resources
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.dll
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\.xml
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.pdb
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\ResGen.read.1.tlog
+C:\Vault_Workspace\Code\Inventor\IV_Tessellator\IV_Tessellator\obj\Debug\ResGen.write.1.tlog
+C:\Users\afielder\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.dll
+C:\Users\afielder\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.pdb
+C:\Users\afielder\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\.xml
+C:\Users\afielder\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.tlb
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.curvedOrStraight.resources
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.Resources.resources
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\ResGen.read.1.tlog
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\ResGen.write.1.tlog
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.dll
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\.xml
+C:\Users\afielder\Documents\Visual Studio 2010\Projects\IV_Tessellator\IV_Tessellator\obj\Debug\IV_Tessellator.pdb
+C:\Users\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.dll
+C:\Users\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.pdb
+C:\Users\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\.xml
+C:\Users\Program Files\Autodesk\Inventor 2012\Bin\CH2MHILLAddin\IV_Tessellator.tlb

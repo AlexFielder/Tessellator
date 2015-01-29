@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IV_Tessellator
+</name>
+</assembly>
+<members>
+<member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_applicationEvents">
+	<summary>
+ Allows us to capture/work with ApplicationEvents
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_userInterfaceEvents">
+	<summary>
+ Allows us to capture/work with UserInterfaceEvents
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_InputEvents">
+	<summary>
+ Allows us to work with/capture UserInputEvents
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_dialogueEvents">
+	<summary>
+ Allows us to capture any FileDialogEvents
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.oIDWDoc">
+	<summary>
+ A DrawingDocument Object
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.oPartDoc">
+	<summary>
+ A Part document object.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.oAssyDoc">
+	<summary>
+ An Assembly document object
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.ThisApplication">
+	<summary>
+ Allows us to use the ThisApplication.Something method.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_addInCLSIDString">
+	<summary>
+ the id of the current Client?
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IV_Tessellator.IV_Tessellator.StandardAddInServer.m_LinesButtonDef">
+	<summary>
+ Creates some abitrary lines - shouldn't run before we can crawl!
+ </summary>
+	<remarks></remarks>
+</member><member name="M:IV_Tessellator.IV_Tessellator.StandardAddInServer.GetSingleSelection">
+	<summary>
+ Returns the Object Name from a picked Sketch
+ </summary>
+	<remarks></remarks>
+</member><member name="M:IV_Tessellator.IV_Tessellator.StandardAddInServer.CreateUCSByTransformationMatrix">
+	<summary>
+ The object created does not represent a coordinate system but instead is a representation 
+ of the information that defines a coordinate system. You can use this object as input to the 
+ UserCoordinateSystems.Add method to create the actual coordinate system. 
+ The returned UserCoordinateSystemDefinition object returned is fully defined (initialized to an identity matrix)
+ and can be used to create a coordinate system. However, you may want to change some of the values of the 
+ UserCoordinateSystemDefinition object before using it to create a coordinate system.
+ </summary>
+	<remarks>Copied from the Inventor 2012 COM API Reference file!</remarks>
+</member><member name="M:IV_Tessellator.IV_Tessellator.HyperbolicEngine.ComputeCircleParameters(Inventor.Point2d,Inventor.Point2d,System.Double@,System.Double@,System.Double@)">
+	<summary>
+ Compute the circle containing points a and b, and
+ orthogonal to the unit circle (a.k.a shortest path between
+ a and b in the hyperbolic sense).
+ Return true if the output is a circle. False if the shortest path is a straight line (diameter of the unit circle).
+</summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<param name="cx"></param>
+	<param name="cy"></param>
+	<param name="radius"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:IV_Tessellator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IV_Tessellator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IV_Tessellator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
